@@ -26,9 +26,8 @@ limitations under the License.
         <V.com.braintribe.templatetools>[2.0,2.1)</V.com.braintribe.templatetools>
         <V.com.braintribe.testing>[2.0,2.1)</V.com.braintribe.testing>
         <V.commons-collections>3.2.2</V.commons-collections>
-        <V.commons-lang>2.6</V.commons-lang>
         <V.org.apache.commons>3.12.0</V.org.apache.commons>
-        <V.org.apache.velocity>2.3</V.org.apache.velocity>
+        <V.org.apache.velocity>2.4.1</V.org.apache.velocity>
         <V.org.slf4j>1.7.32</V.org.slf4j>
     </properties>
     <licenses>

@@ -36,12 +36,6 @@ limitations under the License.
         <dependency>
             <groupId>org.apache.velocity</groupId>
             <artifactId>velocity-engine-core</artifactId>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.apache.commons</groupId>
-                    <artifactId>commons-lang3</artifactId>
-                </exclusion>
-            </exclusions>
             <version>${V.org.apache.velocity}</version>
         </dependency>
         <dependency>
@@ -58,11 +52,6 @@ limitations under the License.
             <groupId>com.braintribe.codec</groupId>
             <artifactId>basic-codecs</artifactId>
             <version>${V.com.braintribe.codec}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-            <version>${V.org.apache.commons}</version>
         </dependency>
     </dependencies>
 </project>
